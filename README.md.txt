@@ -1,1 +1,0 @@
-gitBash deneme
