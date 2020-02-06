@@ -1,10 +1,4 @@
-Abdülkerim AKSAK
-
-030117042
-
-Sinyal İşleme 
-
-Proje: MATLAB ile sentezleme
+﻿#NOT: DAHA ÖNCEDEN GİTLAB ÜZERİNDE OLUŞTURULDUĞU İÇİN TEK SEFERDE YÜKLENMİŞTİR!!!!!!!!!!
 
 # Sinyal İşleme Proje Ödevi
 
