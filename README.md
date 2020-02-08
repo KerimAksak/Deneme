@@ -1,4 +1,4 @@
-﻿#NOT: DAHA ÖNCEDEN GİTLAB ÜZERİNDE OLUŞTURULDUĞU İÇİN TEK SEFERDE YÜKLENMİŞTİR!!!!!!!!!!
+
 
 # Sinyal İşleme Proje Ödevi
 
